@@ -6,4 +6,8 @@ Meu nome é Mariana Helena
  - Estou me  desenvolvendo na linguagem JavaScript
  - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
- ### Voc
+ ### Você pode entrar em contato comigo :mailmox
+
+ marianamoura1620@gmail.com
+ 
+ @mahh_1509
